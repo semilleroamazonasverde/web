@@ -1,0 +1,109 @@
+
+body{
+  background-image: url(img/fp.jpg);
+  background-repeat: no-repeat;
+  padding: 0%;
+  text-decoration: none;
+  margin: 0%;
+  box-sizing: border-box;
+  text-transform: capitalize;
+
+}
+
+header{
+  display: flex;
+  height: 100px;
+  background-color: rgb(21, 34, 23);
+  margin-top: -20px;
+}
+
+a{
+  margin-top: 15px;
+  margin-left: 5px;
+  text-decoration: none;
+  color:black;
+}
+
+a:hover{
+  color: rgb(131, 38, 15);
+
+}
+
+
+h6{
+  position: absolute;
+  width: 500px;
+  top: 15px;
+  color: rgb(218, 218, 218);
+  margin-left: 750px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h4{
+  position: absolute;
+  top: 132px;
+  left: 120px;
+  font-family: 'Work Sans', sans-serif;
+  color: aliceblue;
+}
+
+
+div{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  list-style: none
+}
+
+
+
+
+
+
+main{
+
+ text-align: center;
+  width: 1000px;
+  margin-left: 580px;
+  margin-top: -900px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+    button{
+      position: relative;
+      text-align: center;
+      background-color: rgb(234, 255, 184);
+      margin-top: 40px;
+      border-radius: 5px;
+      font-size: 14px;
+      border: none;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: .3S ease all;
+      box-shadow: 0px;
+    
+    }
+
+
+
+    button:hover{
+      background-color: rgb(190, 255, 92)
+    }
+
+    nav{
+  
+      margin-top: -16px;
+      width: 350px;
+      right: 100px;
+      height: 1000px;
+      background-color: rgb(96, 202, 96);
+     background-image: url(img/EV3.jpg);
+      background-size:cover;
+      padding: 0px;
+    }
+    
